@@ -55,7 +55,7 @@ player-tracking-system/
 1. **Clone the repository**
 
 ```
-git clone https://github.com/yourusername/player-tracking-system.git
+git clone https://github.com/adnanjuwle/player-tracking-system.git
 cd player-tracking-system
 ```
 
