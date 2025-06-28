@@ -115,5 +115,5 @@ This attempts to identify players consistently across two camera feeds.
 
 See `requirements.txt` for the full list.
 
-
+Read report.md for reports on what methodology is used and what issues are there.
 
