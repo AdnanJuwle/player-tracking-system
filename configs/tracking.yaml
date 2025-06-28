@@ -1,0 +1,12 @@
+# Single Feed Tracking Configuration
+model_path: "data/models/best.pt" 
+model_url: "https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view"
+output_dir: "outputs/single_feed"
+
+detection:
+  conf_threshold: 0.5  # Confidence threshold for detections
+
+tracking:
+  motion_weight: 0.7   # Weight for motion similarity (IoU)
+  appearance_weight: 0.3  # Weight for appearance similarity
+  max_cost: 0.8        # Maximum cost for assignment
